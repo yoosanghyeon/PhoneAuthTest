@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "122578930903",
+    "firebase_url": "https://testauth-c6437.firebaseio.com",
+    "project_id": "testauth-c6437",
+    "storage_bucket": "testauth-c6437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122578930903:android:e337762811c1b024",
+        "android_client_info": {
+          "package_name": "com.banklow.phoneauthtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122578930903-g6r1uh61ln7gcbt4hrs4heg1secb3829.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.banklow.phoneauthtest",
+            "certificate_hash": "05dc3e8d7b71951a9cb820a1b13b50a178d80cd0"
+          }
+        },
+        {
+          "client_id": "122578930903-fik7olqd31rk2kgh3ugf9gurpicnnp3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsSwfbJQCjumyH4dQB_Vx3zfuNg2qawJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122578930903-fik7olqd31rk2kgh3ugf9gurpicnnp3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
