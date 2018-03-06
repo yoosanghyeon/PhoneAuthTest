@@ -1,0 +1,3 @@
+# PhoneAuthTest
+
+- Firebase PhoneNumber TestCode
